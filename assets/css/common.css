@@ -14,22 +14,19 @@
   color: inherit;
 }
 
-.text-content,
-.about-me-text {
+.text-content {
   font-size: 1rem;
   color: var(--text-color);
 }
 
 .text-content,
 .main-heading,
-.sub-heading,
-.about-me-text {
+.sub-heading {
   line-height: 1.5;
 }
 
 .main-heading,
-.sub-heading,
-.about-me-heading {
+.sub-heading {
   font-weight: 500;
 }
 
@@ -37,8 +34,7 @@
   font-size: 3rem;
 }
 
-.sub-heading,
-.about-me-heading {
+.sub-heading {
   font-size: 2rem;
 }
 
