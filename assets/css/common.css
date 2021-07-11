@@ -45,11 +45,12 @@
 .btn {
   display: block;
   padding: 20px;
-  width: 180px;
+  width: 190px;
   border: 0;
   text-transform: uppercase;
   background: var(--accent-color);
   color: var(--second-bg-color);
+  letter-spacing: 1.3px;
 }
 
 .single-line-text-overflow {
